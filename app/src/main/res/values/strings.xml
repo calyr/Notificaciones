@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Notificaciones</string>
+    <string name="texto_accion_toque_home">Ir a</string>
 </resources>
